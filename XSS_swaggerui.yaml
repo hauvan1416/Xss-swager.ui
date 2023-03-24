@@ -19,10 +19,10 @@ paths:
         '200':
           description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
       tags:
-        - accounts
+        - <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
       operationId: findAccounts
       summary: Finds all accounts
-  '/accounts/groupid/{id}':
+  '/accounts/groupid/{<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>}':
     delete:
       parameters:
         - description: |
